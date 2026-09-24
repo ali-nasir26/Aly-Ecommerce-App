@@ -1,0 +1,81 @@
+2026-05-08 20:02:42 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:02:42 | INFO | ekam.app | Loaded datasets from CSV files.
+2026-05-08 20:02:42 | INFO | ekam.app | Page rendered in 93ms | page=Home
+2026-05-08 20:02:54 | INFO | ekam.app | Navigation page selected: Catalog
+2026-05-08 20:02:54 | INFO | ekam.app | Page rendered in 28ms | page=Catalog
+2026-05-08 20:02:58 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:02:58 | INFO | ekam.app | Page rendered in 10ms | page=Home
+2026-05-08 20:04:38 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:04:38 | INFO | ekam.app | Page rendered in 23ms | page=Home
+2026-05-08 20:06:28 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:06:28 | INFO | ekam.app | Page rendered in 109ms | page=Home
+2026-05-08 20:15:11 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:15:11 | INFO | ekam.app | Page rendered in 23ms | page=Home
+2026-05-08 20:15:20 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:15:20 | INFO | ekam.app | Page rendered in 14ms | page=Home
+2026-05-08 20:15:23 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:15:23 | INFO | ekam.app | Page rendered in 24ms | page=Home
+2026-05-08 20:15:26 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:15:26 | INFO | ekam.app | Page rendered in 19ms | page=Home
+2026-05-08 20:15:27 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:15:27 | INFO | ekam.app | Page rendered in 23ms | page=Home
+2026-05-08 20:15:29 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:15:29 | INFO | ekam.app | Page rendered in 21ms | page=Home
+2026-05-08 20:15:30 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:15:30 | INFO | ekam.app | Page rendered in 38ms | page=Home
+2026-05-08 20:15:31 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:15:31 | INFO | ekam.app | Page rendered in 15ms | page=Home
+2026-05-08 20:15:32 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:15:32 | INFO | ekam.app | Page rendered in 17ms | page=Home
+2026-05-08 20:15:34 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:15:34 | INFO | ekam.app | Page rendered in 18ms | page=Home
+2026-05-08 20:15:35 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:15:35 | INFO | ekam.app | Page rendered in 15ms | page=Home
+2026-05-08 20:15:53 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:15:53 | INFO | ekam.app | Page rendered in 15ms | page=Home
+2026-05-08 20:19:19 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:19:19 | INFO | ekam.app | Page rendered in 14ms | page=Home
+2026-05-08 20:19:22 | INFO | ekam.app | Navigation page selected: Catalog
+2026-05-08 20:19:22 | INFO | ekam.app | Page rendered in 59ms | page=Catalog
+2026-05-08 20:19:30 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:19:30 | INFO | ekam.app | Page rendered in 22ms | page=Home
+2026-05-08 20:30:54 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:30:54 | INFO | ekam.app | Page rendered in 21ms | page=Home
+2026-05-08 20:31:02 | INFO | ekam.app | Navigation page selected: Catalog
+2026-05-08 20:31:02 | INFO | ekam.app | Page rendered in 53ms | page=Catalog
+2026-05-08 20:33:50 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 20:33:50 | INFO | ekam.app | Page rendered in 33ms | page=Home
+2026-05-08 20:34:00 | INFO | ekam.app | Navigation page selected: Catalog
+2026-05-08 20:34:00 | INFO | ekam.app | Page rendered in 78ms | page=Catalog
+2026-05-08 20:34:11 | INFO | ekam.app | Navigation page selected: Explorer
+2026-05-08 20:34:11 | INFO | ekam.app | Page rendered in 50ms | page=Explorer
+2026-05-08 21:18:06 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 21:18:06 | INFO | ekam.app | Page rendered in 22ms | page=Home
+2026-05-08 21:18:12 | INFO | ekam.app | Navigation page selected: Catalog
+2026-05-08 21:18:12 | INFO | ekam.app | Page rendered in 44ms | page=Catalog
+2026-05-08 21:20:32 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 21:20:32 | INFO | ekam.app | Page rendered in 30ms | page=Home
+2026-05-08 21:20:37 | INFO | ekam.app | Navigation page selected: Catalog
+2026-05-08 21:20:37 | INFO | ekam.app | Page rendered in 51ms | page=Catalog
+2026-05-08 21:20:43 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 21:20:43 | INFO | ekam.app | Page rendered in 36ms | page=Home
+2026-05-08 21:20:47 | INFO | ekam.app | Navigation page selected: Catalog
+2026-05-08 21:20:47 | INFO | ekam.app | Page rendered in 50ms | page=Catalog
+2026-05-08 21:22:28 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 21:22:28 | INFO | ekam.app | Page rendered in 26ms | page=Home
+2026-05-08 21:22:31 | INFO | ekam.app | Navigation page selected: Catalog
+2026-05-08 21:22:31 | INFO | ekam.app | Page rendered in 44ms | page=Catalog
+2026-05-08 21:22:44 | INFO | ekam.app | Navigation page selected: Catalog
+2026-05-08 21:22:44 | INFO | ekam.app | Page rendered in 51ms | page=Catalog
+2026-05-08 21:22:56 | INFO | ekam.app | Navigation page selected: Catalog
+2026-05-08 21:22:57 | INFO | ekam.app | Page rendered in 42ms | page=Catalog
+2026-05-08 21:23:03 | INFO | ekam.app | Navigation page selected: Catalog
+2026-05-08 21:23:03 | INFO | ekam.app | Page rendered in 105ms | page=Catalog
+2026-05-08 21:23:12 | INFO | ekam.app | Navigation page selected: Catalog
+2026-05-08 21:23:12 | INFO | ekam.app | Page rendered in 96ms | page=Catalog
+2026-05-08 21:23:15 | INFO | ekam.app | Navigation page selected: Catalog
+2026-05-08 21:23:15 | INFO | ekam.app | Page rendered in 80ms | page=Catalog
+2026-05-08 21:23:16 | INFO | ekam.app | Navigation page selected: Catalog
+2026-05-08 21:23:16 | INFO | ekam.app | Page rendered in 53ms | page=Catalog
+2026-05-08 21:23:34 | INFO | ekam.app | Navigation page selected: Home
+2026-05-08 21:23:34 | INFO | ekam.app | Page rendered in 34ms | page=Home
